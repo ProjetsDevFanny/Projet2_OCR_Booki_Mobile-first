@@ -36,7 +36,7 @@ Ce projet correspond au **Projet 2 – Booki** dans le cadre de la formation **O
 
 ## Aperçus
 
-- Desktop 1440px (visible ci‑dessus) : `assets/screenshots/booki_mobile1rst_1440px.png`
-- Tablette 768px : `assets/screenshots/booki_mobile1rst_768px_tablet.png`
-- Mobile 375px : `assets/screenshots/booki_mobile1rst_375px_mobile.png`
+- Desktop 1440px (visible ci‑dessus) : https://github.com/ProjetsDevFanny/Projet2_OCR_Booki_Mobile-first/blob/main/assets/screenshots/booki_mobile1rst_1440px.png
+- Tablette 768px : https://github.com/ProjetsDevFanny/Projet2_OCR_Booki_Mobile-first/blob/main/assets/screenshots/booki_mobile1rst_768px_tablet.png
+- Mobile 375px : https://github.com/ProjetsDevFanny/Projet2_OCR_Booki_Mobile-first/blob/main/assets/screenshots/booki_mobile1rst_375px_mobile.png
 
